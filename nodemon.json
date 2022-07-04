@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "Sunday40",
+        "JWT_KEY":"secret"
+    }
+}
